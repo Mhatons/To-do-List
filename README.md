@@ -2,7 +2,7 @@
 
 # Todo-List-App
 
-> A todo list app, built with React for the Microverse module 3 block 2 curriculum requirement, aimed at Using React life cycle methods and, Understanding the mechanism of lifting state up.
+> A todo list app, built with React for the module 3 block 2 curriculum requirement, aimed at Using React life cycle methods and, Understanding the mechanism of lifting state up.
 
 ## Built With
 
@@ -12,14 +12,14 @@
 
 ## Live Demo
 
-[Click to view](https://mromachi.github.io/Todo-App-React/)
+[Click to view](git@github.com:Mhatons/To-do-List.git)
 
 ## Getting Started
 
 ### To have a copy of this project running on your local machine, follow these commands:
 
 - Clone this repo to your local machine
-  - `https://github.com/MrOmachi/Todo-App-React.git`
+  - `git@github.com:Mhatons/To-do-List.git`
   - Open the folder "Math-magician and run `npm install` to install all necesary scripts,
   - Run from your termminal, `npm start` to open the project in your browser.
 
